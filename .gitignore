@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+terraform.tfvars
+*.tfplan
+
+# Local env
+.env
+
+# IDE
+.vscode/
+*.swp
+.DS_Store
